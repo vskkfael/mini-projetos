@@ -54,7 +54,7 @@ iframe#tela {
 section#redes-sociais img {
     display: flex;
     width: 50px;
-    margin: 5px;
+    margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
 }
